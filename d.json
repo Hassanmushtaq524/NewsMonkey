@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 5999,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Anime classic 'Berserk' still isn't available on Netflix in the US, UK and Canada",
+            "description": "So much for streaming the influential anime seriesBerserk on Netflix in the US, at least on day one. As PiunikaWeb and viewers have noticed, the 1997 manga-based show still isn't available on the service in key markets like the US, UK and Canada well after it…",
+            "url": "https://www.engadget.com/berserk-anime-1997-us-not-available-161155406.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/dca9e350-74b4-11ed-b7fe-6123d28b5ab1",
+            "publishedAt": "2022-12-05T16:11:55Z",
+            "content": "So much for streaming the influential anime seriesBerserk on Netflix in the US, at least on day one. As PiunikaWeb and viewers have noticed, the 1997 manga-based show still isn't available on the ser… [+1617 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Makoto Shinkai’s Suzume hits theaters in April 2023",
+            "description": "The next anime feature from Makoto Shinkai, the director behind Your Name and Weathering With You, is called Suzume, and it will hit theaters outside of Japan in April 2023.",
+            "url": "https://www.theverge.com/2022/12/6/23496291/suzume-makoto-shinkai-anime-film-trailer-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Z9WM06anozc_Olan_NY22lLOCXg=/0x0:1526x858/1200x628/filters:focal(763x429:764x430)/cdn.vox-cdn.com/uploads/chorus_asset/file/24268211/Suzume_8.jpg",
+            "publishedAt": "2022-12-06T15:49:32Z",
+            "content": "Makoto Shinkais Suzume hits theaters in April 2023\r\nMakoto Shinkais Suzume hits theaters in April 2023\r\n / The latest anime feature from the director behind Your Name and Weathering With You has a pr… [+1063 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Whitbrook",
+            "title": "It's Been 25 Years Since Pokémon Accidentally Gave Hundreds of People Seizures",
+            "description": "December 16, 1997 saw the broadcast of the 38th episode of the legendary Pokémon anime in Japan—and the last time it was ever broadcast at all, thanks to a scene that changed broadcast TV in the country for a generation.Read more...",
+            "url": "https://gizmodo.com/pokemon-porygon-seizures-pikachu-shock-25th-anniversary-1849900785",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/29dc1528268b810bf608e0a8abc07d3c.png",
+            "publishedAt": "2022-12-15T23:21:29Z",
+            "content": "December 16, 1997 saw the broadcast of the 38th episode of the legendary Pokémon anime in Japanand the last time it was ever broadcast at all, thanks to a scene that changed broadcast TV in the count… [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Carter",
+            "title": "Open Channel: Give Us Your Most Cursed My Hero Academia Casting",
+            "description": "My Hero Academia made the jump over to anime in 2016, just a few years after its manga debut, and has become one of the hottest superhero properties of the moment. Between three films, six seasons, and a handful of video games (plus an incoming crossover with…",
+            "url": "https://gizmodo.com/open-channel-my-hero-academia-casting-netflix-live-acti-1849883195",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ccfeed4009f88b8c077109c7afa14787.jpg",
+            "publishedAt": "2022-12-12T20:45:00Z",
+            "content": "My Hero Academiamade the jump over to anime in 2016, just a few years after its manga debut, and has become one of the hottest superhero properties of the moment. Between three films, six seasons, an… [+2103 chars]"
+        }
+    ]
+}
